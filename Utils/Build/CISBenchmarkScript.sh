@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+VERSION=""
+VERSIONDATE="2022-07-20"
+
+
